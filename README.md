@@ -6,6 +6,6 @@
 
 ###- Legajo: 1766200
 
-###- Sanchez Sinani
+### -Apellido: Sanchez Sinani
 
-### -Gustavo Daniel
+### -Nombre: Gustavo Daniel
