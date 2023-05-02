@@ -2,10 +2,10 @@
 
 ### Curso K2054
 
-###-Anio: 2023 - Material Anual
+###- Anio: 2023 - Material Anual
 
-###-Legajo: 1766200
+###- Legajo: 1766200
 
-###-Sanchez Sinani
+###- Sanchez Sinani
 
-###-Gustavo Daniel
+### -Gustavo Daniel
