@@ -4,8 +4,8 @@
 
 ### +Anio: 2023 - Material Anual
 
-### +Legajo: 1766200
++Legajo: 1766200
 
-### +Apellido: Sanchez Sinani
++Apellido: Sanchez Sinani
 
-### -Nombre: Gustavo Daniel
+-Nombre: Gustavo Daniel
