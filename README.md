@@ -2,7 +2,7 @@
 
 ### Curso K2054
 
-### + Anio: 2023 - Material Anual
++ Anio: 2023 - Material Anual
 
 + Legajo: 1766200
 
