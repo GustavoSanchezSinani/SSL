@@ -1,8 +1,8 @@
 # Sintaxis y Semantica de los Lenguajes
 
-### Curso K2054
+### Curso K2006
 
-+ Anio: 2023 - Material Anual
++ Anio: 2024 - Material Anual
 
 + Legajo: 1766200
 
